@@ -1,0 +1,15 @@
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/bin/Debug/net7.0/AoTCompiled
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/bin/Debug/net7.0/AoTCompiled.deps.json
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/bin/Debug/net7.0/AoTCompiled.runtimeconfig.json
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/bin/Debug/net7.0/AoTCompiled.dll
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/bin/Debug/net7.0/AoTCompiled.pdb
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/obj/Debug/net7.0/AoTCompiled.csproj.AssemblyReference.cache
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/obj/Debug/net7.0/AoTCompiled.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/obj/Debug/net7.0/AoTCompiled.AssemblyInfoInputs.cache
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/obj/Debug/net7.0/AoTCompiled.AssemblyInfo.cs
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/obj/Debug/net7.0/AoTCompiled.csproj.CoreCompileInputs.cache
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/obj/Debug/net7.0/AoTCompiled.dll
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/obj/Debug/net7.0/refint/AoTCompiled.dll
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/obj/Debug/net7.0/AoTCompiled.pdb
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/obj/Debug/net7.0/AoTCompiled.genruntimeconfig.cache
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/obj/Debug/net7.0/ref/AoTCompiled.dll

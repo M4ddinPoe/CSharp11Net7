@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {},
+    "net7.0/ubuntu-x64": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "/Users/maddin/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/AoTCompiled.csproj",
+      "projectName": "AoTCompiled",
+      "projectPath": "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/AoTCompiled.csproj",
+      "packagesPath": "/Users/maddin/.nuget/packages/",
+      "outputPath": "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/maddin/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+            "version": "[7.0.1, 7.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Crossgen2.osx-arm64",
+            "version": "[7.0.1, 7.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[7.0.1, 7.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+            "version": "[7.0.1, 7.0.1]"
+          },
+          {
+            "name": "runtime.linux-x64.Microsoft.DotNet.ILCompiler",
+            "version": "[7.0.1, 7.0.1]"
+          },
+          {
+            "name": "runtime.osx-arm64.Microsoft.DotNet.ILCompiler",
+            "version": "[7.0.1, 7.0.1]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "ubuntu-x64": {
+        "#import": []
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package runtime.osx-arm64.Microsoft.DotNet.ILCompiler. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "runtime.osx-arm64.Microsoft.DotNet.ILCompiler",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

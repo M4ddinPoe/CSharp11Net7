@@ -1,0 +1,5 @@
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/RawStringLiterals/bin/Release/net7.0/publish/RawStringLiterals
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/RawStringLiterals/bin/Release/net7.0/publish/RawStringLiterals.dll
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/RawStringLiterals/bin/Release/net7.0/publish/RawStringLiterals.deps.json
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/RawStringLiterals/bin/Release/net7.0/publish/RawStringLiterals.runtimeconfig.json
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/RawStringLiterals/bin/Release/net7.0/publish/RawStringLiterals.pdb

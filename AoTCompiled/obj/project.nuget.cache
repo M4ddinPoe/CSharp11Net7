@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "ELnO/28gLTkFhpecceTAYp7Za/yMtRcbr1w4oQKaEKnG1ApLwMUgGsup0Z78TTrk3Sa/caB5+WGPltAneI68PA==",
+  "success": false,
+  "projectFilePath": "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/AoTCompiled.csproj",
+  "expectedPackageFiles": [
+    "/Users/maddin/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/7.0.1/microsoft.netcore.app.runtime.linux-x64.7.0.1.nupkg.sha512",
+    "/Users/maddin/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/7.0.1/microsoft.aspnetcore.app.runtime.linux-x64.7.0.1.nupkg.sha512",
+    "/Users/maddin/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/7.0.1/microsoft.netcore.app.crossgen2.osx-arm64.7.0.1.nupkg.sha512",
+    "/Users/maddin/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/7.0.1/runtime.linux-x64.microsoft.dotnet.ilcompiler.7.0.1.nupkg.sha512",
+    "/Users/maddin/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.1/microsoft.netcore.app.host.linux-x64.7.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package runtime.osx-arm64.Microsoft.DotNet.ILCompiler. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "runtime.osx-arm64.Microsoft.DotNet.ILCompiler",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

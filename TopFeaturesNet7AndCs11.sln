@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Raw String Literals", "2 - Raw String Literals", "{290FC27E-95A8-4DE9-B129-1207EA43287A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RawStringLiterals", "RawStringLiterals\RawStringLiterals.csproj", "{0BB9DE84-0A05-4BFD-8DB1-8E539A5D49D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - AoT Compiler", "0 - AoT Compiler", "{0762AD5A-9B51-4F67-A96E-71CD7D12AE14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JitCompiled", "JitCompiled\JitCompiled.csproj", "{89AFF88A-3816-45B3-99C8-BC476624B005}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoTCompiled", "AoTCompiled\AoTCompiled.csproj", "{6D1A0322-F86E-4CE8-AD26-3F5359FE1FAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Linq Performance", "1 - Linq Performance", "{AA4E16D1-8F2B-4A96-AE74-FE958011D5C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqPerformance", "LinqPerformance\LinqPerformance.csproj", "{D1D4D2A9-7407-488D-A0EE-5B22CE43E3DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Container Support", "2 - Container Support", "{9D3BE18D-1B6C-42C0-A152-576CFB03B822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerApp", "ContainerApp\ContainerApp.csproj", "{3365C317-743F-45E5-B78E-7DA924962EB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0BB9DE84-0A05-4BFD-8DB1-8E539A5D49D3} = {290FC27E-95A8-4DE9-B129-1207EA43287A}
+		{89AFF88A-3816-45B3-99C8-BC476624B005} = {0762AD5A-9B51-4F67-A96E-71CD7D12AE14}
+		{6D1A0322-F86E-4CE8-AD26-3F5359FE1FAB} = {0762AD5A-9B51-4F67-A96E-71CD7D12AE14}
+		{D1D4D2A9-7407-488D-A0EE-5B22CE43E3DC} = {AA4E16D1-8F2B-4A96-AE74-FE958011D5C8}
+		{3365C317-743F-45E5-B78E-7DA924962EB7} = {9D3BE18D-1B6C-42C0-A152-576CFB03B822}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BB9DE84-0A05-4BFD-8DB1-8E539A5D49D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB9DE84-0A05-4BFD-8DB1-8E539A5D49D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB9DE84-0A05-4BFD-8DB1-8E539A5D49D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB9DE84-0A05-4BFD-8DB1-8E539A5D49D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89AFF88A-3816-45B3-99C8-BC476624B005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89AFF88A-3816-45B3-99C8-BC476624B005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89AFF88A-3816-45B3-99C8-BC476624B005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89AFF88A-3816-45B3-99C8-BC476624B005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D1A0322-F86E-4CE8-AD26-3F5359FE1FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1A0322-F86E-4CE8-AD26-3F5359FE1FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1A0322-F86E-4CE8-AD26-3F5359FE1FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1A0322-F86E-4CE8-AD26-3F5359FE1FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1D4D2A9-7407-488D-A0EE-5B22CE43E3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D4D2A9-7407-488D-A0EE-5B22CE43E3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D4D2A9-7407-488D-A0EE-5B22CE43E3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D4D2A9-7407-488D-A0EE-5B22CE43E3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3365C317-743F-45E5-B78E-7DA924962EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3365C317-743F-45E5-B78E-7DA924962EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3365C317-743F-45E5-B78E-7DA924962EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3365C317-743F-45E5-B78E-7DA924962EB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/JitCompiled/bin/Debug/net7.0/JitCompiled
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/JitCompiled/bin/Debug/net7.0/JitCompiled.deps.json
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/JitCompiled/bin/Debug/net7.0/JitCompiled.runtimeconfig.json
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/JitCompiled/bin/Debug/net7.0/JitCompiled.dll
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/JitCompiled/bin/Debug/net7.0/JitCompiled.pdb
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/JitCompiled/obj/Debug/net7.0/JitCompiled.csproj.AssemblyReference.cache
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/JitCompiled/obj/Debug/net7.0/JitCompiled.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/JitCompiled/obj/Debug/net7.0/JitCompiled.AssemblyInfoInputs.cache
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/JitCompiled/obj/Debug/net7.0/JitCompiled.AssemblyInfo.cs
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/JitCompiled/obj/Debug/net7.0/JitCompiled.csproj.CoreCompileInputs.cache
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/JitCompiled/obj/Debug/net7.0/JitCompiled.dll
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/JitCompiled/obj/Debug/net7.0/refint/JitCompiled.dll
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/JitCompiled/obj/Debug/net7.0/JitCompiled.pdb
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/JitCompiled/obj/Debug/net7.0/JitCompiled.genruntimeconfig.cache
+/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/JitCompiled/obj/Debug/net7.0/ref/JitCompiled.dll
