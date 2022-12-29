@@ -12,4 +12,4 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = AoTCompiled
-build_property.ProjectDir = /Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/
+build_property.ProjectDir = /Users/maddin/Documents/Development/Maddin/CSharp11Net7/AoTCompiled/

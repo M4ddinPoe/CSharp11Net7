@@ -48,11 +48,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/ContainerApp/ContainerApp.csproj",
+      "projectUniqueName": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/ContainerApp/ContainerApp.csproj",
       "projectName": "ContainerApp",
-      "projectPath": "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/ContainerApp/ContainerApp.csproj",
+      "projectPath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/ContainerApp/ContainerApp.csproj",
       "packagesPath": "/Users/maddin/.nuget/packages/",
-      "outputPath": "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/ContainerApp/obj/",
+      "outputPath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/ContainerApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/maddin/.nuget/NuGet/NuGet.Config"

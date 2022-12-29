@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/AoTCompiled.csproj": {}
+    "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/AoTCompiled/AoTCompiled.csproj": {}
   },
   "projects": {
-    "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/AoTCompiled.csproj": {
+    "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/AoTCompiled/AoTCompiled.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/AoTCompiled.csproj",
+        "projectUniqueName": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/AoTCompiled/AoTCompiled.csproj",
         "projectName": "AoTCompiled",
-        "projectPath": "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/AoTCompiled.csproj",
+        "projectPath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/AoTCompiled/AoTCompiled.csproj",
         "packagesPath": "/Users/maddin/.nuget/packages/",
-        "outputPath": "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/obj/",
+        "outputPath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/AoTCompiled/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/maddin/.nuget/NuGet/NuGet.Config"

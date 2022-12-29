@@ -1,0 +1,217 @@
+// Validating benchmarks:
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 2 benchmark(s) in total *****
+// ***** Building 2 exe(s) in Parallel: Start   *****
+// ***** Done, took 00:00:02 (2.13 sec)   *****
+// Found 2 benchmarks:
+//   Benchmark.DoLoop: .NET 6.0(Runtime=.NET 6.0)
+//   Benchmark.DoLoop: .NET 7.0(Runtime=.NET 7.0)
+
+// **************************
+// Benchmark: Benchmark.DoLoop: .NET 6.0(Runtime=.NET 6.0)
+// *** Execute ***
+// Launch: 1 / 1
+// Execute: dotnet 65d2583f-46ae-4066-af00-4dc8c8a67f52.dll --anonymousPipes 103 110 --benchmarkName OnStackReplacement.Benchmark.DoLoop --job ".NET 6.0" --benchmarkId 0 in /Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/OnStackReplacement/bin/Release/net7.0/65d2583f-46ae-4066-af00-4dc8c8a67f52/bin/Release/net6.0
+Failed to set up high priority. Make sure you have the right permissions. Message: Permission denied
+// BeforeAnythingElse
+
+// Benchmark Process Environment Information:
+// Runtime=.NET 6.0.12 (6.0.1222.56807), Arm64 RyuJIT AdvSIMD
+// GC=Concurrent Workstation
+// HardwareIntrinsics=AdvSIMD,CRC32 VectorSize=128
+// Job: .NET 6.0
+
+OverheadJitting  1: 1 op, 105667.00 ns, 105.6670 us/op
+WorkloadJitting  1: 1 op, 411240834.00 ns, 411.2408 ms/op
+
+OverheadJitting  2: 1 op, 0.00 ns, 0.0000 ns/op
+WorkloadJitting  2: 1 op, 412417708.00 ns, 412.4177 ms/op
+
+WorkloadWarmup   1: 1 op, 412147000.00 ns, 412.1470 ms/op
+WorkloadWarmup   2: 1 op, 412752375.00 ns, 412.7524 ms/op
+WorkloadWarmup   3: 1 op, 412190625.00 ns, 412.1906 ms/op
+WorkloadWarmup   4: 1 op, 412535584.00 ns, 412.5356 ms/op
+WorkloadWarmup   5: 1 op, 412824833.00 ns, 412.8248 ms/op
+WorkloadWarmup   6: 1 op, 412494500.00 ns, 412.4945 ms/op
+
+// BeforeActualRun
+WorkloadActual   1: 1 op, 412558584.00 ns, 412.5586 ms/op
+WorkloadActual   2: 1 op, 412698250.00 ns, 412.6982 ms/op
+WorkloadActual   3: 1 op, 412171333.00 ns, 412.1713 ms/op
+WorkloadActual   4: 1 op, 413421541.00 ns, 413.4215 ms/op
+WorkloadActual   5: 1 op, 415140042.00 ns, 415.1400 ms/op
+WorkloadActual   6: 1 op, 412198291.00 ns, 412.1983 ms/op
+WorkloadActual   7: 1 op, 412695833.00 ns, 412.6958 ms/op
+WorkloadActual   8: 1 op, 412305667.00 ns, 412.3057 ms/op
+WorkloadActual   9: 1 op, 412781875.00 ns, 412.7819 ms/op
+WorkloadActual  10: 1 op, 412409750.00 ns, 412.4097 ms/op
+WorkloadActual  11: 1 op, 412030083.00 ns, 412.0301 ms/op
+WorkloadActual  12: 1 op, 411823167.00 ns, 411.8232 ms/op
+WorkloadActual  13: 1 op, 412026667.00 ns, 412.0267 ms/op
+WorkloadActual  14: 1 op, 412345042.00 ns, 412.3450 ms/op
+WorkloadActual  15: 1 op, 411730417.00 ns, 411.7304 ms/op
+
+// AfterActualRun
+WorkloadResult   1: 1 op, 412558584.00 ns, 412.5586 ms/op
+WorkloadResult   2: 1 op, 412698250.00 ns, 412.6982 ms/op
+WorkloadResult   3: 1 op, 412171333.00 ns, 412.1713 ms/op
+WorkloadResult   4: 1 op, 413421541.00 ns, 413.4215 ms/op
+WorkloadResult   5: 1 op, 412198291.00 ns, 412.1983 ms/op
+WorkloadResult   6: 1 op, 412695833.00 ns, 412.6958 ms/op
+WorkloadResult   7: 1 op, 412305667.00 ns, 412.3057 ms/op
+WorkloadResult   8: 1 op, 412781875.00 ns, 412.7819 ms/op
+WorkloadResult   9: 1 op, 412409750.00 ns, 412.4097 ms/op
+WorkloadResult  10: 1 op, 412030083.00 ns, 412.0301 ms/op
+WorkloadResult  11: 1 op, 411823167.00 ns, 411.8232 ms/op
+WorkloadResult  12: 1 op, 412026667.00 ns, 412.0267 ms/op
+WorkloadResult  13: 1 op, 412345042.00 ns, 412.3450 ms/op
+WorkloadResult  14: 1 op, 411730417.00 ns, 411.7304 ms/op
+// GC:  0 0 0 5976 1
+// Threading:  0 0 1
+
+// AfterAll
+// Benchmark Process 1380 has exited with code 0.
+
+Mean = 412.371 ms, StdErr = 0.118 ms (0.03%), N = 14, StdDev = 0.442 ms
+Min = 411.730 ms, Q1 = 412.065 ms, Median = 412.325 ms, Q3 = 412.662 ms, Max = 413.422 ms
+IQR = 0.596 ms, LowerFence = 411.171 ms, UpperFence = 413.556 ms
+ConfidenceInterval = [411.872 ms; 412.870 ms] (CI 99.9%), Margin = 0.499 ms (0.12% of Mean)
+Skewness = 0.65, Kurtosis = 2.91, MValue = 2
+
+// ** Remained 1 (50,0 %) benchmark(s) to run. Estimated finish 2022-12-28 12:29 (0h 0m from now) **
+// **************************
+// Benchmark: Benchmark.DoLoop: .NET 7.0(Runtime=.NET 7.0)
+// *** Execute ***
+// Launch: 1 / 1
+// Execute: dotnet 9e3a3683-2a9b-412d-be7c-3dafe6db48c4.dll --anonymousPipes 111 112 --benchmarkName OnStackReplacement.Benchmark.DoLoop --job ".NET 7.0" --benchmarkId 0 in /Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/OnStackReplacement/bin/Release/net7.0/9e3a3683-2a9b-412d-be7c-3dafe6db48c4/bin/Release/net7.0
+Failed to set up high priority. Make sure you have the right permissions. Message: Permission denied
+// BeforeAnythingElse
+
+// Benchmark Process Environment Information:
+// Runtime=.NET 7.0.1 (7.0.122.56804), Arm64 RyuJIT AdvSIMD
+// GC=Concurrent Workstation
+// HardwareIntrinsics=AdvSIMD,AES,CRC32,DP,RDM,SHA1,SHA256 VectorSize=128
+// Job: .NET 7.0
+
+OverheadJitting  1: 1 op, 143208.00 ns, 143.2080 us/op
+WorkloadJitting  1: 1 op, 411500041.00 ns, 411.5000 ms/op
+
+OverheadJitting  2: 1 op, 208.00 ns, 208.0000 ns/op
+WorkloadJitting  2: 1 op, 411685459.00 ns, 411.6855 ms/op
+
+WorkloadWarmup   1: 1 op, 411803958.00 ns, 411.8040 ms/op
+WorkloadWarmup   2: 1 op, 409465834.00 ns, 409.4658 ms/op
+WorkloadWarmup   3: 1 op, 409454167.00 ns, 409.4542 ms/op
+WorkloadWarmup   4: 1 op, 410331791.00 ns, 410.3318 ms/op
+WorkloadWarmup   5: 1 op, 409673167.00 ns, 409.6732 ms/op
+WorkloadWarmup   6: 1 op, 411786042.00 ns, 411.7860 ms/op
+WorkloadWarmup   7: 1 op, 409237167.00 ns, 409.2372 ms/op
+
+// BeforeActualRun
+WorkloadActual   1: 1 op, 411394083.00 ns, 411.3941 ms/op
+WorkloadActual   2: 1 op, 410771625.00 ns, 410.7716 ms/op
+WorkloadActual   3: 1 op, 411014084.00 ns, 411.0141 ms/op
+WorkloadActual   4: 1 op, 410520709.00 ns, 410.5207 ms/op
+WorkloadActual   5: 1 op, 411003041.00 ns, 411.0030 ms/op
+WorkloadActual   6: 1 op, 411103333.00 ns, 411.1033 ms/op
+WorkloadActual   7: 1 op, 411024416.00 ns, 411.0244 ms/op
+WorkloadActual   8: 1 op, 411114916.00 ns, 411.1149 ms/op
+WorkloadActual   9: 1 op, 411079084.00 ns, 411.0791 ms/op
+WorkloadActual  10: 1 op, 410999583.00 ns, 410.9996 ms/op
+WorkloadActual  11: 1 op, 409398708.00 ns, 409.3987 ms/op
+WorkloadActual  12: 1 op, 410986417.00 ns, 410.9864 ms/op
+WorkloadActual  13: 1 op, 427589750.00 ns, 427.5897 ms/op
+WorkloadActual  14: 1 op, 413969417.00 ns, 413.9694 ms/op
+WorkloadActual  15: 1 op, 417543041.00 ns, 417.5430 ms/op
+
+// AfterActualRun
+WorkloadResult   1: 1 op, 411394083.00 ns, 411.3941 ms/op
+WorkloadResult   2: 1 op, 410771625.00 ns, 410.7716 ms/op
+WorkloadResult   3: 1 op, 411014084.00 ns, 411.0141 ms/op
+WorkloadResult   4: 1 op, 410520709.00 ns, 410.5207 ms/op
+WorkloadResult   5: 1 op, 411003041.00 ns, 411.0030 ms/op
+WorkloadResult   6: 1 op, 411103333.00 ns, 411.1033 ms/op
+WorkloadResult   7: 1 op, 411024416.00 ns, 411.0244 ms/op
+WorkloadResult   8: 1 op, 411114916.00 ns, 411.1149 ms/op
+WorkloadResult   9: 1 op, 411079084.00 ns, 411.0791 ms/op
+WorkloadResult  10: 1 op, 410999583.00 ns, 410.9996 ms/op
+WorkloadResult  11: 1 op, 409398708.00 ns, 409.3987 ms/op
+WorkloadResult  12: 1 op, 410986417.00 ns, 410.9864 ms/op
+// GC:  0 0 0 936 1
+// Threading:  0 0 1
+
+// AfterAll
+// Benchmark Process 1381 has exited with code 0.
+
+Mean = 410.867 ms, StdErr = 0.146 ms (0.04%), N = 12, StdDev = 0.506 ms
+Min = 409.399 ms, Q1 = 410.933 ms, Median = 411.009 ms, Q3 = 411.085 ms, Max = 411.394 ms
+IQR = 0.152 ms, LowerFence = 410.704 ms, UpperFence = 411.314 ms
+ConfidenceInterval = [410.219 ms; 411.516 ms] (CI 99.9%), Margin = 0.649 ms (0.16% of Mean)
+Skewness = -1.93, Kurtosis = 6.02, MValue = 2
+
+// ** Remained 0 (0,0 %) benchmark(s) to run. Estimated finish 2022-12-28 12:29 (0h 0m from now) **
+// ***** BenchmarkRunner: Finish  *****
+
+// * Export *
+  BenchmarkDotNet.Artifacts/results/OnStackReplacement.Benchmark-report.csv
+  BenchmarkDotNet.Artifacts/results/OnStackReplacement.Benchmark-report-github.md
+  BenchmarkDotNet.Artifacts/results/OnStackReplacement.Benchmark-report.html
+
+// * Detailed results *
+Benchmark.DoLoop: .NET 6.0(Runtime=.NET 6.0)
+Runtime = .NET 6.0.12 (6.0.1222.56807), Arm64 RyuJIT AdvSIMD; GC = Concurrent Workstation
+Mean = 412.371 ms, StdErr = 0.118 ms (0.03%), N = 14, StdDev = 0.442 ms
+Min = 411.730 ms, Q1 = 412.065 ms, Median = 412.325 ms, Q3 = 412.662 ms, Max = 413.422 ms
+IQR = 0.596 ms, LowerFence = 411.171 ms, UpperFence = 413.556 ms
+ConfidenceInterval = [411.872 ms; 412.870 ms] (CI 99.9%), Margin = 0.499 ms (0.12% of Mean)
+Skewness = 0.65, Kurtosis = 2.91, MValue = 2
+-------------------- Histogram --------------------
+[411.490 ms ; 413.662 ms) | @@@@@@@@@@@@@@
+---------------------------------------------------
+
+Benchmark.DoLoop: .NET 7.0(Runtime=.NET 7.0)
+Runtime = .NET 7.0.1 (7.0.122.56804), Arm64 RyuJIT AdvSIMD; GC = Concurrent Workstation
+Mean = 410.867 ms, StdErr = 0.146 ms (0.04%), N = 12, StdDev = 0.506 ms
+Min = 409.399 ms, Q1 = 410.933 ms, Median = 411.009 ms, Q3 = 411.085 ms, Max = 411.394 ms
+IQR = 0.152 ms, LowerFence = 410.704 ms, UpperFence = 411.314 ms
+ConfidenceInterval = [410.219 ms; 411.516 ms] (CI 99.9%), Margin = 0.649 ms (0.16% of Mean)
+Skewness = -1.93, Kurtosis = 6.02, MValue = 2
+-------------------- Histogram --------------------
+[409.108 ms ; 411.684 ms) | @@@@@@@@@@@@
+---------------------------------------------------
+
+// * Summary *
+
+BenchmarkDotNet=v0.13.3, OS=macOS 13.1 (22C65) [Darwin 22.2.0]
+Apple M1 Pro, 1 CPU, 10 logical and 10 physical cores
+.NET SDK=7.0.101
+  [Host]   : .NET 7.0.1 (7.0.122.56804), Arm64 RyuJIT AdvSIMD
+  .NET 6.0 : .NET 6.0.12 (6.0.1222.56807), Arm64 RyuJIT AdvSIMD
+  .NET 7.0 : .NET 7.0.1 (7.0.122.56804), Arm64 RyuJIT AdvSIMD
+
+
+| Method |      Job |  Runtime |     Mean |   Error |  StdDev | Allocated |
+|------- |--------- |--------- |---------:|--------:|--------:|----------:|
+| DoLoop | .NET 6.0 | .NET 6.0 | 412.4 ms | 0.50 ms | 0.44 ms |    5976 B |
+| DoLoop | .NET 7.0 | .NET 7.0 | 410.9 ms | 0.65 ms | 0.51 ms |     936 B |
+
+// * Hints *
+Outliers
+  Benchmark.DoLoop: .NET 6.0 -> 1 outlier  was  removed (415.14 ms)
+  Benchmark.DoLoop: .NET 7.0 -> 3 outliers were removed, 5 outliers were detected (409.40 ms, 410.52 ms, 413.97 ms..427.59 ms)
+
+// * Legends *
+  Mean      : Arithmetic mean of all measurements
+  Error     : Half of 99.9% confidence interval
+  StdDev    : Standard deviation of all measurements
+  Allocated : Allocated memory per single operation (managed only, inclusive, 1KB = 1024B)
+  1 ms      : 1 Millisecond (0.001 sec)
+
+// * Diagnostic Output - MemoryDiagnoser *
+
+
+// ***** BenchmarkRunner: End *****
+Run time: 00:00:20 (20.49 sec), executed benchmarks: 2
+
+Global total time: 00:00:22 (22.87 sec), executed benchmarks: 2
+// * Artifacts cleanup *

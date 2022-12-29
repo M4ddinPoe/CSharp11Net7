@@ -1,22 +1,40 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Raw String Literals", "2 - Raw String Literals", "{290FC27E-95A8-4DE9-B129-1207EA43287A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06 - Raw String Literals", "06 - Raw String Literals", "{290FC27E-95A8-4DE9-B129-1207EA43287A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RawStringLiterals", "RawStringLiterals\RawStringLiterals.csproj", "{0BB9DE84-0A05-4BFD-8DB1-8E539A5D49D3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - AoT Compiler", "0 - AoT Compiler", "{0762AD5A-9B51-4F67-A96E-71CD7D12AE14}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - AoT Compiler", "03 - AoT Compiler", "{0762AD5A-9B51-4F67-A96E-71CD7D12AE14}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JitCompiled", "JitCompiled\JitCompiled.csproj", "{89AFF88A-3816-45B3-99C8-BC476624B005}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoTCompiled", "AoTCompiled\AoTCompiled.csproj", "{6D1A0322-F86E-4CE8-AD26-3F5359FE1FAB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Linq Performance", "1 - Linq Performance", "{AA4E16D1-8F2B-4A96-AE74-FE958011D5C8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Linq Performance", "02 - Linq Performance", "{AA4E16D1-8F2B-4A96-AE74-FE958011D5C8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqPerformance", "LinqPerformance\LinqPerformance.csproj", "{D1D4D2A9-7407-488D-A0EE-5B22CE43E3DC}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Container Support", "2 - Container Support", "{9D3BE18D-1B6C-42C0-A152-576CFB03B822}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Container Support", "04 - Container Support", "{9D3BE18D-1B6C-42C0-A152-576CFB03B822}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerApp", "ContainerApp\ContainerApp.csproj", "{3365C317-743F-45E5-B78E-7DA924962EB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendedNameof", "ExtendedNameof\ExtendedNameof.csproj", "{4EE01A8C-AF30-4AC6-85A0-DB4B6E364271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListPatterns", "ListPatterns\ListPatterns.csproj", "{B72CE19C-2F1C-4BA7-8454-E7DB6195F106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnStackReplacement", "OnStackReplacement\OnStackReplacement.csproj", "{BA9F8324-8B60-4EA6-BD84-925BAC7401D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - On Stack Replacement", "01 - On Stack Replacement", "{4511A161-D58E-4EB2-963B-D3C0693F38C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07 - String Interploated Newline", "07 - String Interploated Newline", "{0F304F12-5269-43D7-A731-7DBF8189DF22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInterpolatedNewline", "StringInterpolatedNewline\StringInterpolatedNewline.csproj", "{8778068C-660A-4667-AF8F-BAC2160B932B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08 - Utf8 String Literals", "08 - Utf8 String Literals", "{3B453D66-BEDB-49B7-8A71-0D65CC9AFF81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09 - List Patterns", "09 - List Patterns", "{B24E072E-9C56-42AD-84DB-B7A9C6F7AEF3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 - Extended nameof", "05 - Extended nameof", "{DB09D252-21FF-4187-B7B0-C71EFD804C1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +47,10 @@ Global
 		{6D1A0322-F86E-4CE8-AD26-3F5359FE1FAB} = {0762AD5A-9B51-4F67-A96E-71CD7D12AE14}
 		{D1D4D2A9-7407-488D-A0EE-5B22CE43E3DC} = {AA4E16D1-8F2B-4A96-AE74-FE958011D5C8}
 		{3365C317-743F-45E5-B78E-7DA924962EB7} = {9D3BE18D-1B6C-42C0-A152-576CFB03B822}
+		{BA9F8324-8B60-4EA6-BD84-925BAC7401D3} = {4511A161-D58E-4EB2-963B-D3C0693F38C4}
+		{8778068C-660A-4667-AF8F-BAC2160B932B} = {0F304F12-5269-43D7-A731-7DBF8189DF22}
+		{B72CE19C-2F1C-4BA7-8454-E7DB6195F106} = {B24E072E-9C56-42AD-84DB-B7A9C6F7AEF3}
+		{4EE01A8C-AF30-4AC6-85A0-DB4B6E364271} = {DB09D252-21FF-4187-B7B0-C71EFD804C1E}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{0BB9DE84-0A05-4BFD-8DB1-8E539A5D49D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -51,5 +73,21 @@ Global
 		{3365C317-743F-45E5-B78E-7DA924962EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3365C317-743F-45E5-B78E-7DA924962EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3365C317-743F-45E5-B78E-7DA924962EB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EE01A8C-AF30-4AC6-85A0-DB4B6E364271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE01A8C-AF30-4AC6-85A0-DB4B6E364271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE01A8C-AF30-4AC6-85A0-DB4B6E364271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE01A8C-AF30-4AC6-85A0-DB4B6E364271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B72CE19C-2F1C-4BA7-8454-E7DB6195F106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72CE19C-2F1C-4BA7-8454-E7DB6195F106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72CE19C-2F1C-4BA7-8454-E7DB6195F106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72CE19C-2F1C-4BA7-8454-E7DB6195F106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA9F8324-8B60-4EA6-BD84-925BAC7401D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9F8324-8B60-4EA6-BD84-925BAC7401D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9F8324-8B60-4EA6-BD84-925BAC7401D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9F8324-8B60-4EA6-BD84-925BAC7401D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8778068C-660A-4667-AF8F-BAC2160B932B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8778068C-660A-4667-AF8F-BAC2160B932B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8778068C-660A-4667-AF8F-BAC2160B932B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8778068C-660A-4667-AF8F-BAC2160B932B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

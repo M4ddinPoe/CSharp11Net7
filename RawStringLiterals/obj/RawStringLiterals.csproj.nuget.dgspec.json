@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/RawStringLiterals/RawStringLiterals.csproj": {}
+    "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/RawStringLiterals/RawStringLiterals.csproj": {}
   },
   "projects": {
-    "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/RawStringLiterals/RawStringLiterals.csproj": {
+    "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/RawStringLiterals/RawStringLiterals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/RawStringLiterals/RawStringLiterals.csproj",
+        "projectUniqueName": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/RawStringLiterals/RawStringLiterals.csproj",
         "projectName": "RawStringLiterals",
-        "projectPath": "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/RawStringLiterals/RawStringLiterals.csproj",
+        "projectPath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/RawStringLiterals/RawStringLiterals.csproj",
         "packagesPath": "/Users/maddin/.nuget/packages/",
-        "outputPath": "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/RawStringLiterals/obj/",
+        "outputPath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/RawStringLiterals/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/maddin/.nuget/NuGet/NuGet.Config"

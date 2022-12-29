@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/LinqPerformance/LinqPerformance.csproj": {}
+    "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/LinqPerformance/LinqPerformance.csproj": {}
   },
   "projects": {
-    "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/LinqPerformance/LinqPerformance.csproj": {
+    "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/LinqPerformance/LinqPerformance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/LinqPerformance/LinqPerformance.csproj",
+        "projectUniqueName": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/LinqPerformance/LinqPerformance.csproj",
         "projectName": "LinqPerformance",
-        "projectPath": "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/LinqPerformance/LinqPerformance.csproj",
+        "projectPath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/LinqPerformance/LinqPerformance.csproj",
         "packagesPath": "/Users/maddin/.nuget/packages/",
-        "outputPath": "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/LinqPerformance/obj/",
+        "outputPath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/LinqPerformance/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [

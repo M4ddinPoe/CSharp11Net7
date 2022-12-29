@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OLihtu62uDLqaPuCa+wlYAHmwECUAnc82PxuHKwxwjxbgOwNT8QVCiFytltaF/jVaromKtUDho/gk6tBbiUQ/Q==",
+  "dgSpecHash": "9pjRHLqYEF9MymvN/Lf2iEdOCwVEc+L37Xnvfc0zXABRyOKJSaUBLrDvN1x/GP9qpQCaiEB+0rLO4b67G8fhxw==",
   "success": true,
-  "projectFilePath": "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/LinqPerformance/LinqPerformance.csproj",
+  "projectFilePath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/LinqPerformance/LinqPerformance.csproj",
   "expectedPackageFiles": [
     "/Users/maddin/.nuget/packages/benchmarkdotnet/0.13.2/benchmarkdotnet.0.13.2.nupkg.sha512",
     "/Users/maddin/.nuget/packages/benchmarkdotnet.annotations/0.13.2/benchmarkdotnet.annotations.0.13.2.nupkg.sha512",

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/JitCompiled/JitCompiled.csproj",
+      "projectUniqueName": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/JitCompiled/JitCompiled.csproj",
       "projectName": "JitCompiled",
-      "projectPath": "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/JitCompiled/JitCompiled.csproj",
+      "projectPath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/JitCompiled/JitCompiled.csproj",
       "packagesPath": "/Users/maddin/.nuget/packages/",
-      "outputPath": "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/JitCompiled/obj/",
+      "outputPath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/JitCompiled/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/maddin/.nuget/NuGet/NuGet.Config"

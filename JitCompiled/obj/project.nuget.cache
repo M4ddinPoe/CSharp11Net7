@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BfF2AwCICqGKL0LdTGwSjKmllu+YM5zAZrRTBQLbA30DBomifKg0HPH5jon1AavmLrlJzP6v9iXkdhr8ZgNekA==",
+  "dgSpecHash": "Gp0jpPMGilaKwzKxOUr8so497+P1On26K/+o2Xg1F1gA8q4U0dLHDb2B4pw7kUShwoJieO4vvXkarNlYqRc+SA==",
   "success": true,
-  "projectFilePath": "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/JitCompiled/JitCompiled.csproj",
+  "projectFilePath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/JitCompiled/JitCompiled.csproj",
   "expectedPackageFiles": [
     "/Users/maddin/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/7.0.1/microsoft.netcore.app.runtime.osx-x64.7.0.1.nupkg.sha512",
     "/Users/maddin/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/7.0.1/microsoft.aspnetcore.app.runtime.osx-x64.7.0.1.nupkg.sha512",

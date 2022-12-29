@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ELnO/28gLTkFhpecceTAYp7Za/yMtRcbr1w4oQKaEKnG1ApLwMUgGsup0Z78TTrk3Sa/caB5+WGPltAneI68PA==",
+  "dgSpecHash": "LduAE8JTBqhXe/uwV/a7N37NZi+y1UyABwnQ9BNoeVd7FgSEaFHVH+otB9EkIjh+mVy+YzYwTHYMe67pWcGqtQ==",
   "success": false,
-  "projectFilePath": "/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/AoTCompiled/AoTCompiled.csproj",
+  "projectFilePath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/AoTCompiled/AoTCompiled.csproj",
   "expectedPackageFiles": [
     "/Users/maddin/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/7.0.1/microsoft.netcore.app.runtime.linux-x64.7.0.1.nupkg.sha512",
     "/Users/maddin/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/7.0.1/microsoft.aspnetcore.app.runtime.linux-x64.7.0.1.nupkg.sha512",
