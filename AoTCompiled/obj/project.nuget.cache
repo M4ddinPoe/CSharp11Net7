@@ -1,24 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "LduAE8JTBqhXe/uwV/a7N37NZi+y1UyABwnQ9BNoeVd7FgSEaFHVH+otB9EkIjh+mVy+YzYwTHYMe67pWcGqtQ==",
-  "success": false,
-  "projectFilePath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/AoTCompiled/AoTCompiled.csproj",
+  "dgSpecHash": "abN7YGQu04BBG9YyGK6ZbhB8sY3quBtjxsg9qOI/W0dJwYzjAwpBKzpxovvbX45yhhlVSp7gTTFPqxtvJpPYwQ==",
+  "success": true,
+  "projectFilePath": "C:\\maddin\\CSharp11Net7\\AoTCompiled\\AoTCompiled.csproj",
   "expectedPackageFiles": [
-    "/Users/maddin/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/7.0.1/microsoft.netcore.app.runtime.linux-x64.7.0.1.nupkg.sha512",
-    "/Users/maddin/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/7.0.1/microsoft.aspnetcore.app.runtime.linux-x64.7.0.1.nupkg.sha512",
-    "/Users/maddin/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/7.0.1/microsoft.netcore.app.crossgen2.osx-arm64.7.0.1.nupkg.sha512",
-    "/Users/maddin/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/7.0.1/runtime.linux-x64.microsoft.dotnet.ilcompiler.7.0.1.nupkg.sha512",
-    "/Users/maddin/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.1/microsoft.netcore.app.host.linux-x64.7.0.1.nupkg.sha512"
+    "C:\\Users\\Martin Pöpel\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\7.0.1\\microsoft.netcore.app.runtime.linux-x64.7.0.1.nupkg.sha512",
+    "C:\\Users\\Martin Pöpel\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\7.0.1\\microsoft.aspnetcore.app.runtime.linux-x64.7.0.1.nupkg.sha512",
+    "C:\\Users\\Martin Pöpel\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\7.0.1\\microsoft.netcore.app.crossgen2.win-x64.7.0.1.nupkg.sha512",
+    "C:\\Users\\Martin Pöpel\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\7.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.7.0.1.nupkg.sha512",
+    "C:\\Users\\Martin Pöpel\\.nuget\\packages\\runtime.linux-x64.microsoft.dotnet.ilcompiler\\7.0.1\\runtime.linux-x64.microsoft.dotnet.ilcompiler.7.0.1.nupkg.sha512",
+    "C:\\Users\\Martin Pöpel\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\7.0.1\\microsoft.netcore.app.host.linux-x64.7.0.1.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Unable to find package runtime.osx-arm64.Microsoft.DotNet.ILCompiler. No packages exist with this id in source(s): nuget.org",
-      "libraryId": "runtime.osx-arm64.Microsoft.DotNet.ILCompiler",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  "logs": []
 }

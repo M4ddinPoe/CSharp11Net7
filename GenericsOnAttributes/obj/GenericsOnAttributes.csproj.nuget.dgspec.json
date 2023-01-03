@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/GenericsOnAttributes/GenericsOnAttributes.csproj": {}
+    "C:\\maddin\\CSharp11Net7\\GenericsOnAttributes\\GenericsOnAttributes.csproj": {}
   },
   "projects": {
-    "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/GenericsOnAttributes/GenericsOnAttributes.csproj": {
+    "C:\\maddin\\CSharp11Net7\\GenericsOnAttributes\\GenericsOnAttributes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/GenericsOnAttributes/GenericsOnAttributes.csproj",
+        "projectUniqueName": "C:\\maddin\\CSharp11Net7\\GenericsOnAttributes\\GenericsOnAttributes.csproj",
         "projectName": "GenericsOnAttributes",
-        "projectPath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/GenericsOnAttributes/GenericsOnAttributes.csproj",
-        "packagesPath": "/Users/maddin/.nuget/packages/",
-        "outputPath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/GenericsOnAttributes/obj/",
+        "projectPath": "C:\\maddin\\CSharp11Net7\\GenericsOnAttributes\\GenericsOnAttributes.csproj",
+        "packagesPath": "C:\\Users\\Martin Pöpel\\.nuget\\packages\\",
+        "outputPath": "C:\\maddin\\CSharp11Net7\\GenericsOnAttributes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/maddin/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Martin Pöpel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/maddin/.nuget/packages/": {}
+    "C:\\Users\\Martin Pöpel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/RawStringLiterals/RawStringLiterals.csproj",
+      "projectUniqueName": "C:\\maddin\\CSharp11Net7\\RawStringLiterals\\RawStringLiterals.csproj",
       "projectName": "RawStringLiterals",
-      "projectPath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/RawStringLiterals/RawStringLiterals.csproj",
-      "packagesPath": "/Users/maddin/.nuget/packages/",
-      "outputPath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/RawStringLiterals/obj/",
+      "projectPath": "C:\\maddin\\CSharp11Net7\\RawStringLiterals\\RawStringLiterals.csproj",
+      "packagesPath": "C:\\Users\\Martin Pöpel\\.nuget\\packages\\",
+      "outputPath": "C:\\maddin\\CSharp11Net7\\RawStringLiterals\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/maddin/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Martin Pöpel\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

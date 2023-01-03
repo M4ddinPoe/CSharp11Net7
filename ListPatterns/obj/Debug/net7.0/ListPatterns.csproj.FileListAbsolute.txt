@@ -1,0 +1,15 @@
+C:\maddin\CSharp11Net7\ListPatterns\bin\Debug\net7.0\ListPatterns.exe
+C:\maddin\CSharp11Net7\ListPatterns\bin\Debug\net7.0\ListPatterns.deps.json
+C:\maddin\CSharp11Net7\ListPatterns\bin\Debug\net7.0\ListPatterns.runtimeconfig.json
+C:\maddin\CSharp11Net7\ListPatterns\bin\Debug\net7.0\ListPatterns.dll
+C:\maddin\CSharp11Net7\ListPatterns\bin\Debug\net7.0\ListPatterns.pdb
+C:\maddin\CSharp11Net7\ListPatterns\obj\Debug\net7.0\ListPatterns.csproj.AssemblyReference.cache
+C:\maddin\CSharp11Net7\ListPatterns\obj\Debug\net7.0\ListPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\maddin\CSharp11Net7\ListPatterns\obj\Debug\net7.0\ListPatterns.AssemblyInfoInputs.cache
+C:\maddin\CSharp11Net7\ListPatterns\obj\Debug\net7.0\ListPatterns.AssemblyInfo.cs
+C:\maddin\CSharp11Net7\ListPatterns\obj\Debug\net7.0\ListPatterns.csproj.CoreCompileInputs.cache
+C:\maddin\CSharp11Net7\ListPatterns\obj\Debug\net7.0\ListPatterns.dll
+C:\maddin\CSharp11Net7\ListPatterns\obj\Debug\net7.0\refint\ListPatterns.dll
+C:\maddin\CSharp11Net7\ListPatterns\obj\Debug\net7.0\ListPatterns.pdb
+C:\maddin\CSharp11Net7\ListPatterns\obj\Debug\net7.0\ListPatterns.genruntimeconfig.cache
+C:\maddin\CSharp11Net7\ListPatterns\obj\Debug\net7.0\ref\ListPatterns.dll

@@ -12,4 +12,4 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = JitCompiled
-build_property.ProjectDir = /Users/maddin/Documents/Development/Maddin/CSharp11Net7/JitCompiled/
+build_property.ProjectDir = C:\maddin\CSharp11Net7\JitCompiled\

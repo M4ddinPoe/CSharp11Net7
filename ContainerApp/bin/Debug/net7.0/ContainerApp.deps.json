@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ContainerApp/1.0.0": {
+        "dependencies": {
+          "Microsoft.NET.Build.Containers": "0.2.7"
+        },
+        "runtime": {
+          "ContainerApp.dll": {}
+        }
+      },
+      "Microsoft.NET.Build.Containers/0.2.7": {}
+    }
+  },
+  "libraries": {
+    "ContainerApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NET.Build.Containers/0.2.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ie5I/rofXd4DVtrEOMjPUtutGCepKLKanRLo0yWyS8fuXQu0lKM3hto8HBKdDdePCcOVEKzwvMW2BBTsJNRnVw==",
+      "path": "microsoft.net.build.containers/0.2.7",
+      "hashPath": "microsoft.net.build.containers.0.2.7.nupkg.sha512"
+    }
+  }
+}

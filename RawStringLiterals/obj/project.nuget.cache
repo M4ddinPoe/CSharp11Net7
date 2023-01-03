@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8OCCpwG0RVqOscvqyu+IvrzXWeHBouR9XYwxCqE6QwnQ380x4bg5WwDlx0D9PP9WZPSyQB0Jumtcwf7w+SHnmA==",
+  "dgSpecHash": "5LZg2Iuib2YSc7UZCdCE+5Q6XpUQNIBDPn1bkLiBwmfGLKwlaxoTZ1Fp5alpUTdDZRKqEjqvOyBeLWr/OiFJCg==",
   "success": true,
-  "projectFilePath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/RawStringLiterals/RawStringLiterals.csproj",
+  "projectFilePath": "C:\\maddin\\CSharp11Net7\\RawStringLiterals\\RawStringLiterals.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

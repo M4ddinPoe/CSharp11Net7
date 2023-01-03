@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Gp0jpPMGilaKwzKxOUr8so497+P1On26K/+o2Xg1F1gA8q4U0dLHDb2B4pw7kUShwoJieO4vvXkarNlYqRc+SA==",
+  "dgSpecHash": "cP5vMZGWOflqVp9uQhJoKleIlwjS+S7gGRgVgO0cSh1TwI62q5sQBGHscfZD31vXi7siDi51HFGvumwdCm6xHQ==",
   "success": true,
-  "projectFilePath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/JitCompiled/JitCompiled.csproj",
+  "projectFilePath": "C:\\maddin\\CSharp11Net7\\JitCompiled\\JitCompiled.csproj",
   "expectedPackageFiles": [
-    "/Users/maddin/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/7.0.1/microsoft.netcore.app.runtime.osx-x64.7.0.1.nupkg.sha512",
-    "/Users/maddin/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/7.0.1/microsoft.aspnetcore.app.runtime.osx-x64.7.0.1.nupkg.sha512",
-    "/Users/maddin/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/7.0.1/microsoft.netcore.app.crossgen2.osx-arm64.7.0.1.nupkg.sha512",
-    "/Users/maddin/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.1/microsoft.netcore.app.host.osx-x64.7.0.1.nupkg.sha512"
+    "C:\\Users\\Martin Pöpel\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\7.0.1\\microsoft.netcore.app.runtime.osx-x64.7.0.1.nupkg.sha512",
+    "C:\\Users\\Martin Pöpel\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\7.0.1\\microsoft.aspnetcore.app.runtime.osx-x64.7.0.1.nupkg.sha512",
+    "C:\\Users\\Martin Pöpel\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\7.0.1\\microsoft.netcore.app.crossgen2.win-x64.7.0.1.nupkg.sha512",
+    "C:\\Users\\Martin Pöpel\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\7.0.1\\microsoft.netcore.app.host.osx-x64.7.0.1.nupkg.sha512"
   ],
   "logs": []
 }

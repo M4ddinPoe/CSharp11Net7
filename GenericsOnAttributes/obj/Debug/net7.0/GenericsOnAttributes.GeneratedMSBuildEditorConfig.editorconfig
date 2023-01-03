@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GenericsOnAttributes
-build_property.ProjectDir = /Users/maddin/Documents/Development/Maddin/CSharp11Net7/GenericsOnAttributes/
+build_property.ProjectDir = C:\maddin\CSharp11Net7\GenericsOnAttributes\

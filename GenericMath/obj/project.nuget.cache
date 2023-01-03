@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xyl8M1EAUk6i32mRWk5q/vIeBUuYm5vqwnWltQs8T7wx9mGN8qZx5nFl7NPDt2LuF7s/o1KExjj88puQt2w5iQ==",
+  "dgSpecHash": "FlHN3wZtpy8B1N567djpQ5tiAE+SAfdk1Frmw+0N5OBIFCDxOlbPK4+w6Ks2dNuFd071qWkNM9CPcs5cMUDBIQ==",
   "success": true,
-  "projectFilePath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/GenericMath/GenericMath.csproj",
+  "projectFilePath": "C:\\maddin\\CSharp11Net7\\GenericMath\\GenericMath.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

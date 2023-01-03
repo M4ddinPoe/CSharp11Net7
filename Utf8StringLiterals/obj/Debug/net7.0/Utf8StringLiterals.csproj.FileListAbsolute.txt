@@ -1,0 +1,15 @@
+C:\maddin\CSharp11Net7\Utf8StringLiterals\bin\Debug\net7.0\Utf8StringLiterals.exe
+C:\maddin\CSharp11Net7\Utf8StringLiterals\bin\Debug\net7.0\Utf8StringLiterals.deps.json
+C:\maddin\CSharp11Net7\Utf8StringLiterals\bin\Debug\net7.0\Utf8StringLiterals.runtimeconfig.json
+C:\maddin\CSharp11Net7\Utf8StringLiterals\bin\Debug\net7.0\Utf8StringLiterals.dll
+C:\maddin\CSharp11Net7\Utf8StringLiterals\bin\Debug\net7.0\Utf8StringLiterals.pdb
+C:\maddin\CSharp11Net7\Utf8StringLiterals\obj\Debug\net7.0\Utf8StringLiterals.csproj.AssemblyReference.cache
+C:\maddin\CSharp11Net7\Utf8StringLiterals\obj\Debug\net7.0\Utf8StringLiterals.GeneratedMSBuildEditorConfig.editorconfig
+C:\maddin\CSharp11Net7\Utf8StringLiterals\obj\Debug\net7.0\Utf8StringLiterals.AssemblyInfoInputs.cache
+C:\maddin\CSharp11Net7\Utf8StringLiterals\obj\Debug\net7.0\Utf8StringLiterals.AssemblyInfo.cs
+C:\maddin\CSharp11Net7\Utf8StringLiterals\obj\Debug\net7.0\Utf8StringLiterals.csproj.CoreCompileInputs.cache
+C:\maddin\CSharp11Net7\Utf8StringLiterals\obj\Debug\net7.0\Utf8StringLiterals.dll
+C:\maddin\CSharp11Net7\Utf8StringLiterals\obj\Debug\net7.0\refint\Utf8StringLiterals.dll
+C:\maddin\CSharp11Net7\Utf8StringLiterals\obj\Debug\net7.0\Utf8StringLiterals.pdb
+C:\maddin\CSharp11Net7\Utf8StringLiterals\obj\Debug\net7.0\Utf8StringLiterals.genruntimeconfig.cache
+C:\maddin\CSharp11Net7\Utf8StringLiterals\obj\Debug\net7.0\ref\Utf8StringLiterals.dll

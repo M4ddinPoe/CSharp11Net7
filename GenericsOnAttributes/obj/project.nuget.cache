@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4GRQjlUNtEhfPqpziwd0DVzPHhFwpafzd8Xz3gzMzDY+k5apsYMZpEdqQEyQpmriPrNX7wOCXhgEapKKamufpw==",
+  "dgSpecHash": "hlxjqPKCTZRY7IE915hZNf4zAO13hT0KSfwCPt7ps7xh3Q1xR16d5PAkRp0qYwFre5Xr1oRMOp4cUBzamomnPQ==",
   "success": true,
-  "projectFilePath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/GenericsOnAttributes/GenericsOnAttributes.csproj",
+  "projectFilePath": "C:\\maddin\\CSharp11Net7\\GenericsOnAttributes\\GenericsOnAttributes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

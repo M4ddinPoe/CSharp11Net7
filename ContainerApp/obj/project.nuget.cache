@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "F6Rpv9OQj8jFyH202wmtRG/NkvDr6bP3PnhCg2ZjH1sBojBHgiHh2EYfJJ5VGKy46HQhzjWNOfaca8FgY+gUkA==",
+  "dgSpecHash": "aEP6QALHOSKVdUeil9xaBosm5AwgJCEsXysAdU5D2+PVp3OMHG98+lwM30T05M1iEOHr0MkBhH8Ih826LCiiQQ==",
   "success": true,
-  "projectFilePath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/ContainerApp/ContainerApp.csproj",
+  "projectFilePath": "C:\\maddin\\CSharp11Net7\\ContainerApp\\ContainerApp.csproj",
   "expectedPackageFiles": [
-    "/Users/maddin/.nuget/packages/microsoft.net.build.containers/0.2.7/microsoft.net.build.containers.0.2.7.nupkg.sha512"
+    "C:\\Users\\Martin Pöpel\\.nuget\\packages\\microsoft.net.build.containers\\0.2.7\\microsoft.net.build.containers.0.2.7.nupkg.sha512"
   ],
   "logs": []
 }

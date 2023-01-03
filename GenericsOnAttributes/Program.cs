@@ -1,5 +1,7 @@
 ﻿using GenericsOnAttributes;
 
+Console.WriteLine();
+
 class ValidatorAttributePre : Attribute
 {
     public ValidatorAttributePre(Type validatorType)

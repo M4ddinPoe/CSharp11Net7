@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sBJjeMvGVtgdNBWFhXpGh4TCLUq90VK3aQYKcRjRGYAHjeHjAb7nYpluTzeIRxGNKelrXHZIu0zWdfZ/sJo3uw==",
+  "dgSpecHash": "KukcpWw7VZUkHw2eCQIk2VfzKIAhi5IjJghLJrCQ7bjGdp6RsDSX5tLJZoUrwGKW9jQc4Nzc4So04d5egjqiJg==",
   "success": true,
-  "projectFilePath": "/Users/maddin/Documents/Development/Maddin/CSharp11Net7/Utf8StringLiterals/Utf8StringLiterals.csproj",
+  "projectFilePath": "C:\\maddin\\CSharp11Net7\\Utf8StringLiterals\\Utf8StringLiterals.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

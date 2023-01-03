@@ -1,3 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿ReadOnlySpan<char> text = "Martin";
 
-Console.WriteLine("Hello, World!");
+if (text is "Martin")
+{
+    Console.WriteLine("Its Martin!");
+}
+
+if (text is ['M', ..])
+{
+    Console.WriteLine("It starts with M!");
+}
