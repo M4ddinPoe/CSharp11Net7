@@ -1,5 +1,7 @@
 namespace ExtendedNameof;
 
+using System;
+
 public class CustomAttribute : Attribute
 {
     public CustomAttribute(string text)

@@ -1,4 +1,6 @@
-﻿ReadOnlySpan<char> text = "Martin";
+﻿using System;
+
+ReadOnlySpan<char> text = "Martin";
 
 if (text is "Martin")
 {

@@ -1,5 +1,0 @@
-C:\maddin\CSharp11Net7\GenericsOnAttributes\obj\Debug\net7.0\GenericsOnAttributes.csproj.AssemblyReference.cache
-C:\maddin\CSharp11Net7\GenericsOnAttributes\obj\Debug\net7.0\GenericsOnAttributes.GeneratedMSBuildEditorConfig.editorconfig
-C:\maddin\CSharp11Net7\GenericsOnAttributes\obj\Debug\net7.0\GenericsOnAttributes.AssemblyInfoInputs.cache
-C:\maddin\CSharp11Net7\GenericsOnAttributes\obj\Debug\net7.0\GenericsOnAttributes.AssemblyInfo.cs
-C:\maddin\CSharp11Net7\GenericsOnAttributes\obj\Debug\net7.0\GenericsOnAttributes.csproj.CoreCompileInputs.cache

@@ -1,5 +1,8 @@
 ﻿namespace ImporovedMethodGroupConversionToDelegate;
 
+using System.Collections.Generic;
+using System.Linq;
+
 public class FilterStuff
 {
     private static readonly List<int> Ages = Enumerable.Range(0, 100).ToList();

@@ -1,4 +1,6 @@
-﻿int[] numbers = { 1, 2, 3 };
+﻿using System;
+
+int[] numbers = { 1, 2, 3 };
  
 Console.WriteLine(numbers is [1, 2, 3]); // true
 Console.WriteLine(numbers is [1, 2, 5]); // false

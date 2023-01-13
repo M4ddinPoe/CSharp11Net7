@@ -1,2 +1,0 @@
-/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/RawStringLiterals/bin/Release/net7.0/osx.10.15-x64/publish/RawStringLiterals.pdb
-/Users/maddin/Documents/Development/Maddin/TopFeaturesNet7AndCs11/RawStringLiterals/bin/Release/net7.0/osx.10.15-x64/publish/RawStringLiterals

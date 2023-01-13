@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System;
+
 IntPtr intPtr = IntPtr.Zero;
 // same as
 nint intPtr2 = IntPtr.Zero;

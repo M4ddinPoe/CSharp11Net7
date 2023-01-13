@@ -1,6 +1,7 @@
 ﻿//- .NET benutzt UTF-16
 //- Das Internet basiert jedoch auf UTF-8
 
+using System;
 using System.Text;
 
 string text = "My Text"; // UTF-16

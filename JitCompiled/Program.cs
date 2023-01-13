@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 // dotnet publish -c Release -r osx.10.15-x64 -p:PublishReadyToRun=true -p:PublishSingleFile=true --self-contained
 
+using System;
 using System.Diagnostics;
 
 Console.WriteLine("Jit Compiled!");
